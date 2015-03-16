@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/displayImage"
+           />
+
+
+     <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+        android:textSize="20dp"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
+        android:id ="@+id/displayName"
+        android:layout_below="@+id/displayImage"></TextView>
+    
+        
+        <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+        android:textSize="20dp"
+            android:layout_marginTop="5px"
+            android:layout_marginBottom="5px"
+        android:clickable="false"
+        android:id ="@+id/displayAddress"
+        android:layout_below="@+id/displayName"></TextView>
+        
+        <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+        android:textSize="20dp"
+        android:autoLink="web"
+            android:layout_marginTop="5px"
+            android:layout_marginBottom="5px"
+        android:clickable="false"
+        android:id ="@+id/displayWebsite"
+            android:layout_below="@+id/displayAddress"></TextView>
+
+
+    <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
+
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+        android:textSize="20dp"
+        android:id ="@+id/displayInformation"
+        android:layout_below="@+id/displayWebsite"></TextView>
+
+
+        
+        <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+        android:textSize="20dp"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
+        android:autoLink="phone"
+        android:clickable="false"
+        android:id ="@+id/displayTelNum"
+        android:layout_below="@+id/displayInformation"></TextView>
+        
+        <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"
+            android:layout_marginTop="5px"
+            android:layout_marginBottom="5px"
+        android:textSize="20dp"
+        android:autoLink="email"
+        android:clickable="false"
+        android:id ="@+id/displayEmail"
+        android:layout_below="@+id/displayTelNum"></TextView>
+        
+        <TextView
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:gravity="left"
+            android:layout_marginTop="5px"
+            android:layout_marginBottom="5px"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:id ="@+id/displayRating"
+        android:layout_below="@+id/displayEmail"    ></TextView>
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="1.0"
+        android:layout_below="@+id/displayRating"/>
+
+
+    <com.facebook.widget.LikeView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/likeButton"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
+        android:layout_below="@+id/ratingBar"
+        />
+    </RelativeLayout>
+</LinearLayout>
+
+
+    </ScrollView>

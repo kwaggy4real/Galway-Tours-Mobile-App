@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.21.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-3b37ad62740a87e3af5c57db4be6200ed2ffd0db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6b0770edddfa80809ff136d70adbf3b1c0825a1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-400f23006ad88c6964c5ffbbe6ad079b46a328b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Airis\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-cbf4dc88a00cae9eab12418a58c6ce784a5637ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Airis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2a409b2948f627dfcacc5ef2f633ea34c37ee3b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-eaefc6685c7c7457043bd331be48b38e3a41b148.jar" />
+    </item>
+
+</items>

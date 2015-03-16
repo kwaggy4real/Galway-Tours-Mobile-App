@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Galway City Tours</string>
+    <string name="action_settings">Settings</string>
+    <string name="cameracontentdesc">Opens the Camera</string>
+    <string name="camerabuttonname">Take Picture</string>
+
+    <string-array name="menu">
+        <item>View Hotels</item>
+        <item>View Hostels</item>
+        <item>View Restautants/Pubs</item>
+        <item>Attractions</item>
+        <item>Events</item>
+        <item>Camera</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="facebook_app_id">653027738151638</string>
+    <string name="title_activity_fb__login">FB_Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fb__login__main_fragment">FB_Login_MainFragment</string>
+
+</resources>

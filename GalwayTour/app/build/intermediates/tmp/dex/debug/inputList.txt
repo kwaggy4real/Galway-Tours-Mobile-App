@@ -1,0 +1,7 @@
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\classes\debug
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2a409b2948f627dfcacc5ef2f633ea34c37ee3b4.jar
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-cbf4dc88a00cae9eab12418a58c6ce784a5637ab.jar
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6b0770edddfa80809ff136d70adbf3b1c0825a1b.jar
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-eaefc6685c7c7457043bd331be48b38e3a41b148.jar
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-3b37ad62740a87e3af5c57db4be6200ed2ffd0db.jar
+C:\Users\Airis\AndroidstudioProjects\GalwayTour\app\build\intermediates\pre-dexed\debug\classes-400f23006ad88c6964c5ffbbe6ad079b46a328b8.jar
